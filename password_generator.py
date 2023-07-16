@@ -1,3 +1,7 @@
+'''
+The Password Generator is a tool that generates strong and secure passwords based on user preferences.
+It helps create unique passwords to enhance online security and protect personal information.
+'''
 import random
 import string
 import tkinter as tk
